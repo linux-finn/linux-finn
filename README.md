@@ -3,7 +3,7 @@
 - 🌱 I’m a perpetual student.
 - 👷‍♂️ I’m currently working on a private project.
 - 📫 How to reach me: stephenfinnegan@tutamail.com
-- 💥 Blog: www.stephenfinnegan.com
+- 💥 Blog: https://stephenfinnegan.com
 - ⚡ Current favourite quote: "Find what you love and let it kill you."
 
 <!---

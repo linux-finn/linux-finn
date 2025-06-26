@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @StephenFinnegan.
-- 👀 I’m interested in coding, writing and creating.
-- 🌱 I’m a perpetual student.
-- 👷‍♂️ I’m currently working on a private project.
-- 📫 How to reach me: stephenfinnegan@tutamail.com
-- 💥 Blog: https://stephenfinnegan.com
-- ⚡ Current favourite quote: "Find what you love and let it kill you."
+🤓 Me: Linux enthusiast, privacy and FOSS advocate.
+
+💻 Interests: Linux, self-hosting, digital privacy, open source tools, automation, minimalist computing.
+
+🚀 Currently: Learning Python, and building a sustainable home lab setup.
+
+📧 Contact: stephenfinnegan@tutamail.com
 
 <!---
 StephenFinnegan/StephenFinnegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

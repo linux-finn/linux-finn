@@ -4,7 +4,7 @@
 
 🚀 Currently: Learning Python, and building a sustainable home lab setup.
 
-📧 Contact: stephenfinnegan@tutamail.com
+📧 Contact: thelinuxprime@proton.me
 
 <!---
 StephenFinnegan/StephenFinnegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

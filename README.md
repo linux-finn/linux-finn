@@ -1,4 +1,4 @@
-🤓 Me: Linux enthusiast, privacy and FOSS advocate.
+🤓 Me: Open Source enthusiast.
 
 💻 Interests: Linux, self-hosting, digital privacy, open source tools, automation, minimalist computing.
 

@@ -2,7 +2,7 @@
 
 💻 Interests: Linux, self-hosting, digital privacy, open source tools, automation, minimalist computing.
 
-🚀 Currently: Learning Python, and building a sustainable home lab setup.
+🚀 Currently: Learning Python, and tinkering with my home server setup. 
 
 📧 Contact: stephenfinnegan@tutamail.com
 
